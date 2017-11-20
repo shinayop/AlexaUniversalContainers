@@ -1,5 +1,4 @@
-const SKILL_ID = 'OrderTrackingIntent for status on order number {OrderId}
-OrderTrackingIntent about {OrderId}';
+const SKILL_ID = 'amzn1.ask.skill.b861c1d7-2d54-4737-a7f2-8a5dee9be7c8';
 
 const WELCOME_MSG = ''.concat(
     'Welcome to Universal Containers. ',
